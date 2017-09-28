@@ -1,6 +1,6 @@
 OS: Win 
-1 Create dataset direction in User folder 
-2 In dataset direction create tree:
+1 Create dataset directory in User folder 
+2 In dataset directory create tree:
 For inria:
  -- INRIA 
   -annotations(copy all annotations from INRIA PERSON DB here)
